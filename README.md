@@ -23,7 +23,7 @@
 
 
 
-https://github.com/Pathumggg/zimbot-v3/edit/zim-bot-inc/README.mdhttps://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fzim-bot%2Fzimbot-v3&template=https%3A%2F%2Fgithub.com%2Fzim-bot%2Fzimbot-v3
 
 
 ## BUILD PACKS
