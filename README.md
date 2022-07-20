@@ -23,7 +23,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/https://github.com/Pathumggg/zimbot-v3https://github.com/Pathumggg/zimbot-v3
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)https://github.com/Pathumggg/zimbot-v3/edit/zim-bot-inc/README.md
 
 ## BUILD PACKS
 
